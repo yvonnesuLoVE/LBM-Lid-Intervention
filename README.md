@@ -9,12 +9,6 @@ Mechanical defeathering can disperse viral material in live poultry markets, but
 
 Targeted RT-qPCR and target-enriched metagenomics characterised viral RNA in air and on nearby surfaces, with surface samples collected before and after a three-hour sampling period. Worker questionnaires assessed usability and acceptability. The environmental findings were interpreted alongside workers' experiences to identify priorities for further evaluation.
 
-
-
-## Repository Contents
-- `LBM_Intervention.R`: environmental metagenomic analysis script. It includes optional count-report preparation functions, negative-control diagnostics, alpha diversity, poultry–air Simpson diversity differences, observed-taxon plots, Bray–Curtis and quantitative Jaccard ordination, exploratory PERMANOVA, distances to the poultry median in the first two ordination axes, edgeR differential abundance, relative-abundance plots and a rank-scaled RPM heatmap. Targeted RT-qPCR and worker questionnaire analyses are not implemented in this script.
-
-
 ---
 
 ## Implications
